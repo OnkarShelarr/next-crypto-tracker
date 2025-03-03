@@ -1,6 +1,3 @@
-
-Show me a better crypto tracker in terms of featues, functiopnalities and ui ux, I'll wait 😎 (Jk)
-
 A crypto tracker web app built using => 
 ## TECH STACK
 - next js 
